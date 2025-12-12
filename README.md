@@ -1,3 +1,6 @@
+> Part of the **EVE AI orchestration platform**  
+> System overview: https://github.com/<Joakim Eklund>/<EVE-AI-Platformo>
+
 elekto-xvault-security
 
 ELEKTO-XVault Security Layer är säkerhetsmotorn för ELEKTO-plattformen. Den fungerar som ett Root-of-Trust-lager som validerar, loggar och skyddar alla kommandon och dataflöden i ett distribuerat mikronät. Systemet ger stöd för attesterade noder, signerade snapshots, WORM-loggning, tokenbaserad åtkomstkontroll, AI-baserad intrångsdetektion samt PUF-fingeravtryck via CableDNA och MetalDNA.
